@@ -1,0 +1,13 @@
+C:\Users\halid\source\repos\CSkullanicigirisi\bin\Debug\CSkullanicigirisi.exe.config
+C:\Users\halid\source\repos\CSkullanicigirisi\bin\Debug\CSkullanicigirisi.exe
+C:\Users\halid\source\repos\CSkullanicigirisi\bin\Debug\CSkullanicigirisi.pdb
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.Properties.Resources.resources
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.csproj.GenerateResource.cache
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.exe
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.pdb
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.Form2.resources
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.frmkullanicigiris.resources
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.Form3.resources
+C:\Users\halid\source\repos\CSkullanicigirisi\obj\Debug\CSkullanicigirisi.uyegirisi.resources
